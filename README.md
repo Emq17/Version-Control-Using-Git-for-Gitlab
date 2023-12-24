@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/akVVSAc.png" alt="Logo"/>
 </p>
 
-# Version Control And Repository Management Using Gitlab
+# Implementing Version Control and Repository Management
+
 
 ![Screen Shot 2023-12-20 at 3 59 16 PM](https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab/assets/147126755/dc2f54bb-f100-4ed2-bff8-5558343ee05c)
 
