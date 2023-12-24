@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://i.imgur.com/akVVSAc.png" alt="Logo"/>
 </p>
-
-# Version Control and Repository Management
  
+<h1 align="center">Version Control and Repository Management</h1>
 
 
 - This assignment has proven instrumental in deepening my understanding of version control and effective GitLab repository management. The practical application of version control processes, notably in the task of upgrading a website within source repository constraints, has provided valuable insights.
