@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/akVVSAc.png" alt="Logo"/>
 </p>
 
-# Implementing Version Control and Repository Management
+# Version Control and Repository Management
  
 
 
